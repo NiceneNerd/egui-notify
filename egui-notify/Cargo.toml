@@ -12,4 +12,4 @@ readme = "../README.md"
 path = "src/lib.rs"
 
 [dependencies]
-egui = "0.19"
+egui = { git = "https://github.com/NiceneNerd/egui" }
